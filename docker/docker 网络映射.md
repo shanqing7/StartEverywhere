@@ -42,4 +42,4 @@ CMD ["python", "app.py"]
 `docker build -t flask-webapp .`
 
 ### 示例
-![4fa8bbed067058e018e4562444426d0f.png](../../_resources/4fa8bbed067058e018e4562444426d0f.png)
+![4fa8bbed067058e018e4562444426d0f.png](../_resources/4fa8bbed067058e018e4562444426d0f-2.png)

@@ -20,4 +20,4 @@ docker network ls --filter "type=bridge"
 ```
 
 ## 示例
-![68e00af01999190c78d2e93ab780bd0a.png](../../_resources/68e00af01999190c78d2e93ab780bd0a.png)
+![68e00af01999190c78d2e93ab780bd0a.png](../_resources/68e00af01999190c78d2e93ab780bd0a-2.png)
