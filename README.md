@@ -1,1 +1,28 @@
-# StartEverywhere
+# startEverywhere
+
+## \# docker 常规命令
+
+- [\[service docker start\] - 启动docker](../startEvertday/docker/[service%20docker%20start]%20-%20启动docker.md)
+- [\[docker run\] - 创建容器](../startEvertday/docker/[docker%20run]%20-%20创建容器.md)
+- [\[docker ps\] - 列出正在运行的容器](../startEvertday/docker/[docker%20ps]%20-%20列出正在运行的容器.md)
+- [\[docker image\] 列出本地镜像](../startEvertday/docker/[docker%20image]%20-%20列出本地镜像.md)
+- [\[docker pull\] - 从docker仓库拉取镜像到本地](../startEvertday/docker/[docker%20pull]%20-%20从docker仓库拉取镜像到本地.md)
+- [\[docker push\] - 本地镜像推送到docker 仓库](../startEvertday/docker/[docker%20push]%20-%20本地镜像推送到docker%20仓库.md)
+- [\[docker build\] - 构建自定义镜像](../startEvertday/docker/[docker%20build]%20-%20构建自定义镜像.md)
+- [\[docker exec\] - 在运行中容器内执行命令](../startEvertday/docker/[docker%20exec]%20-%20在运行中容器内执行命令.md)
+- [\[docker stop\] - 停止运行中容器](../startEvertday/docker/[docker%20stop]%20-%20停止运行中容器.md)
+- [\[docker start\] - 启动已停止的容器](../startEvertday/docker/[docker%20start]%20-%20启动已停止的容器.md)
+- [\[docker restart\] - 重启容器](../startEvertday/docker/[docker%20restart]%20-%20重启容器.md)
+- [\[docker rm\] 删除已停止容器](../startEvertday/docker/[docker%20rm]%20删除已停止容器.md)
+- [\[docker rmi\] - 删除本地镜像](../startEvertday/docker/[docker%20rmi]%20-%20删除本地镜像.md)
+- [\[docker logs\] - 查看容器日志](../startEvertday/docker/[docker%20logs]%20-%20查看容器日志.md)
+- [\[docker inspect\] - 获取详细元数据](../startEvertday/docker/[docker%20inspect]%20-%20获取详细元数据.md)
+- [\[docker network ls\] - 列出docker网络](../startEvertday/docker/[docker%20network%20ls]%20-%20列出docker网络.md)
+- [\[docker volum ls\] - 列出docker数据卷](../startEvertday/docker/[docker%20volum%20ls]%20-%20列出docker数据卷.md)
+- [\[docker-compose up\] - 文件启动多容器应用](../startEvertday/docker/[docker-compose%20up]%20-%20文件启动多容器应用.md)
+- [\[docker-compose down\] - 停止删除由compose up 创建内容](../startEvertday/docker/[docker-compose%20down]%20-%20停止删除由compose%20up%20创建内容.md)
+- [\[docker info\] - 显示docker系统详细信息](../startEvertday/docker/[docker%20info]%20-%20显示docker系统详细信息.md)
+- [\[docker version\] - 显示docker版本信息](../startEvertday/docker/[docker%20version]%20-%20显示docker版本信息.md)
+- [\[docker stats\] - 显示容器资源使用情况](../startEvertday/docker/[docker%20stats]%20-%20显示容器资源使用情况.md)
+- [\[docker login\] - 登录docker 仓库](../startEvertday/docker/[docker%20login]%20-%20登录docker%20仓库.md)
+- [\[docker logout\] - 登出docker 仓库](../startEvertday/docker/[docker%20logout]%20-%20登出docker%20仓库.md)
